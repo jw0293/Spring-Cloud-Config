@@ -1,4 +1,5 @@
 token:
   expiration_time: 86400000
-  secret: exqress_token_default
+  secret: exqress_token_dev
 
+ 
