@@ -1,4 +1,3 @@
 token:
   expiration_time: 86400000
-  secret: exqress_token_default
-
+  secret: '{cipher}AQBCA1WzHsQKK1663pLmEeeh/lABZShpaZUSxzuRLxFsZoEiSQ+WnZbfXqwHiq9QWwcYUI1o7LzcB+lxXSd4+1E435MoIgdzt9T1l67VEBN/EBqg1GK5BpkNQW8pIpqZfIVpqDiZSBfqBorNAidd8GL5ZGA0uGbgzxJwBjiDMd0ynYJDIfxyY/tDChksaYqPH/O6MhPNXM75qqPERv2wfs+F2BgEkZEqJO+adrwAVdOgKI0+QI5z+mKVANn/F5Fva7pc19vm8sWZb9tQIbioMOFGD6GyIK4wv6p1RygsD+PIqGIs+rRZUIKTqd00Z4q1vu673Ha3nGSIiRPq3cN90ivXsZdVEsoRDIr52dB9yOvOLU23s7380XZwDLlPVTBqm/VaoLiRCZ771P5Zm75frrd9'
