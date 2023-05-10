@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:h2:tcp://localhost/~/user-service
     username: sa
-    password: '{cipher}AQCClbFB0HBOcWGxDuO1SwJh/3DjdkXMtwuPsiHU/KzQVSPw7ZqMjRmuSdG00e55xhpYpFlyQ1nAy/psc65N2QHfSaCZE12w2+l30M90dWUmt8s4rgw70t/4XK4QhuJ95aRPoSI/qDTGXNP4j3Pf4VgL9nXn8Nt8URmCzXkPEThxm2lzhJqQwsIe5NoQgKctq6bYstWY6uOt1w+DlPd2p2nKTCI3mmeubdVONuq9K99NFs8oWsoOMAVjVNEbLyVCk6RKsGbj4wlbpdcf+c9m7Cw5nvon8Q6by1d2yhiaJJi36s493hDAlKa558eQ0vkIIVr012pwoFqcGbU/t/7ekc8CZmEr2VeXIEII8wuetL6XuLU6nKwMXJDHdQiAY9Pjuao='
+    password: 1234
     driver-class-name: org.h2.Driver
 
 token:
