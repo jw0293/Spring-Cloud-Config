@@ -1,11 +1,11 @@
 spring: 
   datasource:
-    url: jdbc:mysql://exqress-rds.ctxktr2nwban.ap-northeast-2.rds.amazonaws.com:3306/test/useSSL=false&useUnicode=true&serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true
-    username: admin
-    password: qwer1234
+    url: "{cipher}df0d7132ae7a65d1b518c398e32edda9aeb7295f5e0801b5d01829c08196b95b65c63e78962bd7d4c2e705aabc094d90ddf1f77905c9adfe248ae485a9be917cf188ba33e8646f8b807884bf70136a251ca7365736ad98818f6dc8e029ad2afc65547b1ca1405314f4c89a022cd4e02e28766337b495cfc6656cb267d9183bcb4156ca5142a0c7faa4da951d87b3b087ebb4b2a3dfe28da28aa9f9cea405f14a69b76d385864d59c0024467f2ed4f90672d60950c50023c41bfe9eda183baaa7"
+    username: "{cipher}9c962a774e2e433650bb434af88bf5e8b8bb0ab80512c47fc36b31e5a0abe266"
+    password: "{cipher}1fdb21d238e2828f1913005586aac85301ed766ebbb70ca1e4060a0fd0101815"
     driver-class-name: com.mysql.cj.jdbc.Driver
 
 token:
   expiration_time: 864000
-  secret: ndjdsnfajkgbdskwj31jgfduhoe28
+  secret: "{cipher}063b53bc1f97ab9a0863bef496781870ace6ccecd1da6690dbc080289fbe300faaefa35eecaf213c83326e5abc1b8285"
 
